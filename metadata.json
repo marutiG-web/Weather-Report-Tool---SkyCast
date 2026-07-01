@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "A beautiful, fully responsive, glassmorphic weather application with detailed forecasts, geolocation, and search history.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
